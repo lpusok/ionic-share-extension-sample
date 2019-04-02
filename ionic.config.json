@@ -1,5 +1,7 @@
 {
   "name": "ShareExtApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
